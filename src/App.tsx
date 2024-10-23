@@ -41,6 +41,7 @@ import Congrats from './pages/Congrats';
 import Bg from './pages/sfmed-bg';
 import SFmedi from './pages/sfmedi';
 import Unlock from './pages/unlock';
+import Tsh from './pages/tsh';
 
 function App() {
  
@@ -56,6 +57,8 @@ function App() {
           <Route path = "/sfmedi" element = {<SFmedi/>} />
           <Route path = "/sfmedi-bg" element = {<Bg/>} />
           <Route path = "/sfmedi-unlock" element = {<Unlock/>} />
+          <Route path = "/engmed-tsh" element = {<Tsh/>} />
+         
 
           <Route path = "/" element = {<VeryNew2 />} />
           <Route path="/terms-and-conditions" element={<Terms />} />
