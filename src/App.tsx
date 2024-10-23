@@ -41,7 +41,7 @@ import Congrats from './pages/Congrats';
 import Bg from './pages/sfmed-bg';
 import SFmedi from './pages/sfmedi';
 import Unlock from './pages/unlock';
-import Tsh from './pages/tsh';
+import Tsh from './pages/Tsh';
 
 function App() {
  
