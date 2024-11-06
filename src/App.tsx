@@ -42,6 +42,7 @@ import Bg from './pages/sfmed-bg';
 import SFmedi from './pages/sfmedi';
 import Unlock from './pages/unlock';
 import Tsh from './pages/Tsh';
+import Ths from './pages/Ths';
 
 function App() {
  
@@ -52,7 +53,7 @@ function App() {
         <Routes>
        
 
-
+    <Route path = "/engmed-ths" element = {<Ths/>} />
           <Route path = "/engmed-tsf" element = {<Tsf/>} />
           <Route path = "/sfmedi" element = {<SFmedi/>} />
           <Route path = "/sfmedi-bg" element = {<Bg/>} />
