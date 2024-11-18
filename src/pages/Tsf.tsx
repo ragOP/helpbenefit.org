@@ -211,7 +211,7 @@ export default function Tsf() {
         
         </div>
 
-<p>G2 Licensed Agent : Jessica Johanna Rodriguez</p>
+{/* <p>G2 Licensed Agent : Jessica Johanna Rodriguez</p> */}
         {/* <p>{zipCode} </p> */}
       </div>
     </div>

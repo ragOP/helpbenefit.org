@@ -228,7 +228,7 @@ Seniors On Medicare Can Claim Their Food Allowance Card Worth Thousands Of Dolla
         
         </div>
 
-<p>G2 Licensed Agent : Gregory K. Teipelz</p>
+{/* <p>G2 Licensed Agent : Gregory K. Teipelz</p> */}
         {/* <p>{zipCode} </p> */}
       </div>
    
